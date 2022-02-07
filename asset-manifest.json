@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/home-page/static/js/main.fe8a9c77.js",
-    "static/media/CentralDivImageBackground.jpg": "/home-page/static/media/CentralDivImageBackground.0d4a9f2d1e310694012c.jpg",
-    "static/media/backgroundImageBlur.jpg": "/home-page/static/media/backgroundImageBlur.34ff5be7fe50840be9ee.jpg",
-    "static/media/JosefinSans-Regular.ttf": "/home-page/static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
-    "static/media/JosefinSans-Bold.ttf": "/home-page/static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
-    "index.html": "/home-page/index.html",
-    "main.fe8a9c77.js.map": "/home-page/static/js/main.fe8a9c77.js.map"
+    "main.js": "/Home-page/static/js/main.1e021062.js",
+    "static/media/CentralDivImageBackground.jpg": "/Home-page/static/media/CentralDivImageBackground.0d4a9f2d1e310694012c.jpg",
+    "static/media/backgroundImageBlur.jpg": "/Home-page/static/media/backgroundImageBlur.34ff5be7fe50840be9ee.jpg",
+    "static/media/JosefinSans-Regular.ttf": "/Home-page/static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/Home-page/static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
+    "index.html": "/Home-page/index.html",
+    "main.1e021062.js.map": "/Home-page/static/js/main.1e021062.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe8a9c77.js"
+    "static/js/main.1e021062.js"
   ]
 }
