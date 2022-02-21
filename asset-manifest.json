@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.d1a9d88e.js",
+    "main.js": "./static/js/main.accdc68a.js",
     "static/media/image.jpg": "./static/media/image.66b0125c62989c8b62a8.jpg",
     "static/media/JosefinSans-Regular.ttf": "./static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
     "static/media/JosefinSans-Bold.ttf": "./static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
     "index.html": "./index.html",
-    "main.d1a9d88e.js.map": "./static/js/main.d1a9d88e.js.map"
+    "main.accdc68a.js.map": "./static/js/main.accdc68a.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1a9d88e.js"
+    "static/js/main.accdc68a.js"
   ]
 }
